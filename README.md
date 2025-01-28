@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-Author - prakash chandra swain
+Author - prakash chandra swain(apna college)
